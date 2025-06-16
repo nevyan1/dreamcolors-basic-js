@@ -1,6 +1,7 @@
-git init
-git add .
-git commit -m "Initial commit for Dreamcolors"
-git branch -M main
-git remote add origin https://github.com/nevyan1/dreamcolors-basic-js.git
-git push -u origin main
+/dreamcolors-basic-js
+├── server.js
+├── package.json
+├── templates/
+│   └── *.ejs files
+└── static/
+    └── style.css
